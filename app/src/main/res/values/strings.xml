@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">OBDII</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Conectar">Conectar</string>
+    <string name="ActivarBluetooth">Activar bluetooth</string>
+    <string name="DesactivarBluetooth">Desactivar bluetooth</string>
+    <string name="Confirmar">Confirmar</string>
+    <string name="Cancelar">Cancelar</string>
+
+    <!-- Mensajes -->
+    <string name="SinConexion">Conexión actual: SIN CONEXIÓN</string>
+    <string name="ConexionActual">Conexión actual:</string>
+    <string name="ConectandoA">Conectando a:</string>
+    <string name="IniciandoDescubrimiento">Iniciando búsqueda de dispositivos bluetooth&#8230;</string>
+    <string name="ErrorIniciandoDescubrimiento">Error al iniciar búsqueda de dispositivos bluetooth</string>
+    <string name="DetectadoDispositivo">Detectado dispositivo:</string>
+    <string name="FinBusqueda">Fin de la búsqueda</string>
+    <string name="MsgConfirmarConexion">¿Conectar al dispositivo</string>
+
+    <!-- Strings -->
+    <string name="consola">Aplicación iniciada correctamente.</string>
+    <string name="titulo">Monitor OBDII</string>
+    <string name="sin_conexion">Sin Conexion</string>
+    <string name="checkBox_3g">Utilizar 3G para enviar datos</string>
+    <string name="buscar_dispositivo">Buscar</string>
+
+    <string name="empez_lect">Empezar monitorización</string>
+    <string name="parar_lect">Parar monitorización</string>
+
+    <string name="enviamos">Iniciado el servicio de comunicación con el servidor.</string>
+    <string name="no_enviamos">Finalizado el servicio de comunicación con el servidor.</string>
+
+</resources>

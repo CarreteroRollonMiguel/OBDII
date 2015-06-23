@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!-- Estilo titulo style="@style/FontTitulo"-->
+    <style name="FontTitulo">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+
+    <!-- Estilo consola  style="@style/Boton"-->
+    <style name="Boton">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textColor">@color/b_text_color</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingRight">15dp</item>
+    </style>
+
+</resources>
